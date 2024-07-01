@@ -1,6 +1,6 @@
 # Twitter_Sentimental_Analysis
 
-![image](https://github.com/EVA-12042002/Twitter_Sentimental_Analysis/assets/129527829/6ca88935-2543-414b-90b1-1263bf61360b)
+                                         ![image](https://github.com/EVA-12042002/Twitter_Sentimental_Analysis/assets/129527829/6ca88935-2543-414b-90b1-1263bf61360b)
 
 Overview
 This project aims to perform sentiment analysis on Twitter data using various Naive Bayes classifiers: Naive Bayes, Complement Naive Bayes, Multinomial Naive Bayes, and Bernoulli Naive Bayes. Additionally, the project includes Receiver Operating Characteristic (ROC) curves to visualize the performance of each model.
